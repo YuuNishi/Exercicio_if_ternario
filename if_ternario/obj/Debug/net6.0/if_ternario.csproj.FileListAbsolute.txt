@@ -1,0 +1,15 @@
+C:\Dev\aulas\if_ternario\if_ternario\bin\Debug\net6.0\if_ternario.exe
+C:\Dev\aulas\if_ternario\if_ternario\bin\Debug\net6.0\if_ternario.deps.json
+C:\Dev\aulas\if_ternario\if_ternario\bin\Debug\net6.0\if_ternario.runtimeconfig.json
+C:\Dev\aulas\if_ternario\if_ternario\bin\Debug\net6.0\if_ternario.dll
+C:\Dev\aulas\if_ternario\if_ternario\bin\Debug\net6.0\if_ternario.pdb
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\if_ternario.csproj.AssemblyReference.cache
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\if_ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\if_ternario.AssemblyInfoInputs.cache
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\if_ternario.AssemblyInfo.cs
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\if_ternario.csproj.CoreCompileInputs.cache
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\if_ternario.dll
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\refint\if_ternario.dll
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\if_ternario.pdb
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\if_ternario.genruntimeconfig.cache
+C:\Dev\aulas\if_ternario\if_ternario\obj\Debug\net6.0\ref\if_ternario.dll
